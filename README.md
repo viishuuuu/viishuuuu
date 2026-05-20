@@ -22,14 +22,12 @@ Currently pursuing my **BCA degree** while building projects that combine coding
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### **Data Science & Analytics**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white)
 
 ### **Tools & Platforms**
@@ -40,7 +38,7 @@ Currently pursuing my **BCA degree** while building projects that combine coding
 
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
+
 
 ---
 
@@ -51,6 +49,9 @@ A Python-based web scraping and data science project that collects product data 
 
 **Tech:** Python, Apify, Pandas, Data Science
 [View Repository](https://github.com/viishuuuu/ajio-api-data-analysis)
+
+
+
 
 ---
 
