@@ -50,7 +50,12 @@ A Python-based web scraping and data science project that collects product data 
 **Tech:** Python, Apify, Pandas, Data Science
 [View Repository](https://github.com/viishuuuu/ajio-api-data-analysis)
 
+### **US Baby Data Analysis**
+Exploratory data analysis and cleaning of US Baby Names dataset with exercises and solutions.
 
+**Tech:** Python, Pandas, Data Cleaning, EDA
+
+[View Repository](https://github.com/viishuuuu/us-baby-data-analysis)
 
 
 ---
