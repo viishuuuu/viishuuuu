@@ -62,32 +62,7 @@ Exploratory data analysis and cleaning of US Baby Names dataset with exercises a
 
 This project extracts company-related data from AmbitionBox using Python and performs data analysis and visualization.
 
-## Features
-- Fetch company information from AmbitionBox
-- Clean and preprocess raw data
-- Analyze company ratings, locations, and company types
-- Generate insights using Pandas
-- Create visualizations with Matplotlib
-- Explore trends across industries and locations
-
-## Tech Stack
-- Python
-- Pandas
-- NumPy
-- Requests
-- BeautifulSoup / API Integration
-- Matplotlib
-
-## Analysis Performed
-- Top-rated companies
-- Company distribution by location
-- Rating analysis
-- Company type analysis
-- Data visualization and reporting
-
-## Project Goal
-To demonstrate data collection, preprocessing, exploratory data analysis (EDA), and visualization skills using real-world company data.
-[View Repository](https://github.com/viishuuuu/AmbitionBox-Data-Fetching-&-Analysis)
+[View Repository](https://github.com/viishuuuu/AMBITION-BOX-API-DATA-FETCHING-.git)
 
 ---
 
